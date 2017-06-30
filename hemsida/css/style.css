@@ -1,0 +1,83 @@
+.slime-igt {
+background-image: url("../bilder/blommar3.jpg");
+background-repeat: no-repeat;
+
+}
+.ätbartslime {
+	background-image: url("./bilder/url.html");
+}
+.butterslime{
+	background-color: #fffcea;
+}
+.fluffyslime{
+	background-color: #f2fffe;
+
+
+}
+h1{
+	height: 300px;
+	width: 100%;
+	text-align: center;
+	margin: 0 0 ;
+	padding-top: 30px;
+
+
+}
+
+#grön{	
+	background-image: url("../bilder/grön slime.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: center center;
+	color: #1e7f29;
+}
+
+
+p {
+	color: #d383b2
+ }
+#välkommen {
+	text-align: center;
+font-size: 18px;
+
+}
+
+#slimeklump{
+	width: 29%;
+	display: block;
+	margin: auto;
+}
+
+#rosa{
+		background-image: url("../bilder/slimerosa.png");
+background-size: cover;
+background-repeat: no-repeat;
+position: center;
+color: #c44091;
+}
+
+#gul{
+	 background-image: url("../bilder/slimegulareengulengul.png");
+background-size: cover;
+background-repeat: no-repeat;
+position: center center;
+color: #604701;
+
+}
+
+#blå{
+	background-image: url("../bilder/slimeblue.png");
+background-size: cover;
+background-repeat: no-repeat;
+position: center center;
+color: #604701;
+}
+
+.navbar-inverse {
+background-color: #ffffff;
+}
+
+
+}
+
+    
